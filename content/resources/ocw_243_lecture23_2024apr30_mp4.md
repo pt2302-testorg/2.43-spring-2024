@@ -9,7 +9,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: 'Lecture 23: Direct and Cross Effects; General Principles of Entropy Production;
@@ -59,4 +60,4 @@ video_metadata:
     \ are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: M7cl1Zi5YYE
 ---
-Entropy production as sum of force-flux products. Linear force-flux laws for direct effects (Fourier, Fick, Ohm, Navier). Cross effects. Curie symmetry principle. Steepest entropy ascent and Fourth Law. Minimum global entropy production at steady state.
+Entropy production as sum of force-flux products. Linear force-flux laws for direct effects (Fourier, Fick, Ohm, Navier). Cross effects. The Curie symmetry principle. Steepest entropy ascent and Fourth Law. Minimum global entropy production at steady state.
