@@ -55,4 +55,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: lmYzkVOfuqs
 ---
-Fourier law from formal analogy with near-equilibrium chemical kinetics. Onsager reciprocity from Ziegler principle of maximum entropy production. Symmetry of the thermal conductivity tensor for anisotropic materials. Cattaneo-Vernotte heat equation.
+Fourier's law from formal analogy with near-equilibrium chemical kinetics. Onsager reciprocity from the Ziegler principle of maximum entropy production. Symmetry of the thermal conductivity tensor for anisotropic materials. The Cattaneo-Vernotte heat equation.
